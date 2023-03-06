@@ -1,0 +1,264 @@
+Css : 
+/*
+Kirka.io Custom CSS
+Made By: Markzt
+*/
+
+
+/*Background */
+.pattern-bg {
+        background: url(https://cdn.discordapp.com/attachment...) !important;
+    width: 100%;
+}
+
+
+/*
+Another BG: https://cdn.discordapp.com/attachment...
+                        https://cdn.discordapp.com/attachment...
+*/
+
+
+.bg-radial {
+        display: none;
+}
+
+
+/* Lobby */
+.promo-link-btn {
+        display: none !important;
+}
+
+
+.logo {
+        display: (https://cdn.discordapp.com/attachment...)
+}
+
+
+.soc-group[data-v-3c44abf2] {
+        display: none;
+}
+
+
+.systems {
+        margin-bottom: 5% !important;
+}
+
+
+.moneys {
+        position: fixed;
+        right: unset;
+        left: 79% !important;
+}
+
+
+.right-icons {
+    background-color:transparent !important;
+        transform:translateX(80%);
+    flex-direction:column;
+}
+
+
+.right-icons .inventory-card {
+        -webkit-transform:translateX(-38px);
+    transform:translateX(-38px);
+        transition: ease-in-out 0.5s;
+}
+
+
+.inventory-card:hover {
+    transform: translateX(-130px);
+}
+
+
+.right-icons .icon-btn {
+        display: block;
+        position: absolute;
+        right: 22%;
+        top: 132%;
+        width: 100%;
+        opacity: 1;
+        transition: ease-in-out 0.4s;
+}
+
+
+.right-icons .icon-btn:hover {
+        transform: translateX(-100px);
+}
+
+
+.right-icons .svg-icon[data-v-b8de1e14] {
+        margin-left: -98%;
+        margin-bottom: -30%;
+}
+
+
+.right-icons .text-icon {
+        margin-right: -30%;
+        margin-top: 9%;
+}
+
+
+/*
+.icon-btn:nth-child(1) {
+        display: 
+}
+*/
+
+
+/* Loading */
+.loading-scene .loading{
+        display: none;
+}
+
+
+.background-cont .bg-image {
+        background: url('https://cdn.discordapp.com/attachment...)
+}
+
+
+/* HUD */
+.info-key-cont {
+        display: none;
+}
+
+
+.list-weapons {
+        display: none !important;
+}
+
+
+.hp {
+        margin-right: 35%;
+        transform: unset;
+}
+
+
+.hp-title {
+        display: none !important;
+}
+
+
+.state {
+        margin-left: 35%;
+        transform: unset;
+}
+
+
+.cont-endurance {
+        margin-bottom: 5%;
+}
+
+
+.mWwn {
+        display: none !important;
+}
+
+
+.weapons-cont {
+        position: fixed;
+        margin-right: 46.%;
+        margin-bottom: 3%;
+        transform: unset;
+}
+
+
+.instruction {
+        display: none !important;
+}
+
+
+.mini-map-cont {
+        display: none;
+}
+
+
+.kill-death {
+        position: fixed;
+        right: 1px;
+        bottom: 3%;
+        left: unset !important;
+        top: unset !important;
+}
+
+
+/* Chat */
+.chat {
+        margin-bottom: -5%;
+}
+
+
+/* Profile */
+.profile .avatar-info, .profile .level, .exp-values {
+        display: none;
+}
+
+
+.user-info {
+        visibility: hidden;
+}
+
+
+.progress-lvl {
+        visibility: visible;
+        margin-right: -25%;
+        margin-bottom: 10% !important;
+}
+
+
+/* Timer and Score */
+.timer{
+        position: fixed;
+        right: 8px;
+}
+
+
+.team-score .label {
+        margin: 26.px;
+        margin-left: 60px;
+        margin-right: 60px;
+}
+
+#app {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #7ECC49;
+}
+
+.progress-line[data-v-5aafd15a] {
+    background-color: #ffffff;
+    width: 100%;
+    height: 1.1rem;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    padding: 0 0.2rem;
+    box-shadow: 0 2px 0 rgb(50 52 71 / 31%);
+  
+  @media (max-width: 900px)
+html {
+    font-size: 9px;
+}
+
+element.style {
+    display: block !important;
+    inset: 248.85899999999998px 725.5px -295.281px 116px;
+}
+
+.label-card[data-v-2bcdf8f9] {
+    display: flex;
+    align-items: center;
+    padding: -12.600000000000001rem 1rem -4.600000000000001rem 0.6rem;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+    border-top: none!important;
+    color: #f00;
+    cursor: pointer;
+    max-height: 2.25rem;
+}
+
+@media (max-width: 1650px)
+.team-section[data-v-26ce3560] {
+    margin-top: 28rem;
+    margin-left: -32rem;
+}
